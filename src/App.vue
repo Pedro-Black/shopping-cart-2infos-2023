@@ -97,7 +97,7 @@ function formatarPreco(preco) {
 }
 
 .carrinho {
-  /* min-width: 20%; */
+  min-width: 20%
 }
 .listagem-livros {
   display: flex;
